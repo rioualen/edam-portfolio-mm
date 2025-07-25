@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Explore"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/biotools.png
+  - image_path: /assets/images/biotools_copy.png
     alt: "ELIXIR Bio.tools"
     title: "ELIXIR Bio.tools"
     excerpt: "A registry of software metadata and descriptions using EDAM terms."
