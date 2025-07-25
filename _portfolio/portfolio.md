@@ -20,15 +20,15 @@ feature_row:
     btn_label: "Explore"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/bio-tools.png
+  - image_path: /assets/images/biotools.png
     alt: "ELIXIR Bio.tools"
     title: "ELIXIR Bio.tools"
     excerpt: "A registry of software metadata and descriptions using EDAM terms."
-    url: "/portfolio/bio-tools/"
+    url: "/portfolio/biotools/"
     btn_label: "Explore"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/galaxy.png
+  - image_path: /assets/images/Galaxy.png
     alt: "Galaxy Project"
     title: "Galaxy"
     excerpt: "An open-source platform for data analysis, workflows, and EDAM-based metadata."
