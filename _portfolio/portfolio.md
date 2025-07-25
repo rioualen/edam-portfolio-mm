@@ -12,11 +12,11 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/EDAM_square.png
-    alt: "Another Project"
-    title: "Another Project"
-    excerpt: "Description of another infrastructure or initiative."
-    url: "/portfolio/another-project/"
+  - image_path: /assets/images/Bioschemas.png
+    alt: "Bioschemas"
+    title: "Bioschemas"
+    excerpt: "Metadata schemas for life science resources."
+    url: "/portfolio/bioschemas/"
     btn_label: "Explore"
     btn_class: "btn--primary"
 ---
