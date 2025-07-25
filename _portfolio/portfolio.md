@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 classes: wide
 feature_row:
-  - image_path: /assets/images/Bioconductor.png
+  - image_path: /assets/images/Bioconductor_copy.png
     alt: "Bioconductor"
     title: "Bioconductor"
     excerpt: "Integration with EDAM and the RSE ecosystem."
@@ -12,7 +12,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/Bioschemas.png
+  - image_path: /assets/images/Bioschemas_copy.png
     alt: "Bioschemas"
     title: "Bioschemas"
     excerpt: "Metadata schemas for life science resources."
@@ -28,13 +28,6 @@ feature_row:
     btn_label: "Explore"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/Galaxy.png
-    alt: "Galaxy Project"
-    title: "Galaxy"
-    excerpt: "An open-source platform for data analysis, workflows, and EDAM-based metadata."
-    url: "/portfolio/galaxy/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
