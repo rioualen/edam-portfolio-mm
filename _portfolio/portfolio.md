@@ -19,6 +19,22 @@ feature_row:
     url: "/portfolio/bioschemas/"
     btn_label: "Explore"
     btn_class: "btn--primary"
+
+  - image_path: /assets/images/bio-tools.png
+    alt: "ELIXIR Bio.tools"
+    title: "ELIXIR Bio.tools"
+    excerpt: "A registry of software metadata and descriptions using EDAM terms."
+    url: "/portfolio/bio-tools/"
+    btn_label: "Explore"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/galaxy.png
+    alt: "Galaxy Project"
+    title: "Galaxy"
+    excerpt: "An open-source platform for data analysis, workflows, and EDAM-based metadata."
+    url: "/portfolio/galaxy/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row %}
