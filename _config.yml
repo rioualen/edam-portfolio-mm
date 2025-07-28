@@ -30,3 +30,6 @@ defaults:
       layout: single
       css: "custom"
 
+sass:
+  style: compressed
+
