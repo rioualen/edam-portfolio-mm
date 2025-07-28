@@ -7,7 +7,7 @@ feature_row:
   - image_path: /assets/images/Bioconductor_copy.png
     alt: "Bioconductor"
     title: "Bioconductor"
-    excerpt: "Integration with EDAM and the RSE ecosystem."
+    excerpt: "Annoation of Bioconductor packages using EDAM."
     url: "/portfolio/bioconductor/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
