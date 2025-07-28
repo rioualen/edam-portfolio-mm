@@ -28,8 +28,5 @@ defaults:
       type: portfolio
     values:
       layout: single
-      css: "custom"
-
-sass:
-  style: compressed
+      css: "main"
 
