@@ -22,11 +22,14 @@ collections:
     output: true
     permalink: /portfolio/:path/
 
+sass:
+  style: compressed
+  
 defaults:
   - scope:
       path: ""
       type: portfolio
     values:
-      layout: single
       css: "main"
+      layout: single
 
