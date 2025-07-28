@@ -30,4 +30,8 @@ feature_row:
 
 ---
 
+## EDAM portfolio
+
+This is a gallery of projects involving the EDAM ontology.
+
 {% include feature_row %}

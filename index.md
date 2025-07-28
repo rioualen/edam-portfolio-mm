@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "EDAM Portfolio"
+title: "The EDAM ontology"
 excerpt: "Software metadata, bio.tools, and ontology integration"
 ---
 

@@ -1,5 +1,5 @@
-title: "EDAM Portfolio"
-description: "A research software and ontology integration portfolio"
+title: "The EDAM ontology"
+description: "Portfolio of projects involving the EDAM ontology."
 url: "https://rioualen.github.io"
 baseurl: "/edam-portfolio-mm"  # must match repo name
 
@@ -11,10 +11,10 @@ plugins:
 
 # Author and social info (optional)
 author:
-  name: "Your Name"
+  name: "Claire Rioualen"
   avatar: "/assets/images/avatar.png"
-  bio: "Research Software Engineer"
-  location: "France"
+  bio: "Research Engineer"
+  location: "Marseille, France"
 
 # Output portfolio items
 collections:

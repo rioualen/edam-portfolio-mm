@@ -7,7 +7,7 @@ permalink: /portfolio/bioschemas/
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
   <img src="{{ '/assets/images/bioschemas_300px.png' | relative_url }}" alt="Bioschemas logo" style="height: auto;">
-  <h2 style="margin: 0;">Bioschemas</h2>
+  <h2 style="margin: 0;"></h2>
 </div>
 
 Profile specifications built on Schema.org types that identify the essential properties to use in describing a resource and add new properties specific to life science resources.

@@ -1,5 +1,5 @@
 ---
-title: "Organisations"
+title: "Bioconductor"
 nav_order: 1
 parent: "Portfolio"
 permalink: /portfolio/bioconductor/
@@ -7,7 +7,7 @@ permalink: /portfolio/bioconductor/
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
   <img src="{{ '/assets/images/bioconductor_300px.png' | relative_url }}" alt="Bioconductor logo" style="height: auto;">
-  <h2 style="margin: 0;">Bioconductor</h2>
+  <h2 style="margin: 0;"></h2>
 </div>
 
 The [Bioconductor project](https://bioconductor.org/) aims to develop, support, and disseminate free open source software for the reproducible analysis of data from biological experiments. It holds a collection of more than 2,000 curated software packages, supporting a vast range of bioinformatics applications that are widely used for gene expression analysis, visualisation, data integration and more.
