@@ -10,29 +10,11 @@ permalink: /portfolio/bioschemas/
   <h2 style="margin: 0;"></h2>
 </div>
 
-Profile specifications built on Schema.org types that identify the essential properties to use in describing a resource and add new properties specific to life science resources.
-Bioschemas define 15 profiles, and some attributes use the EDAM controlled vocabulary:
 
-* ComputationalTool:applicationSubCategory:[EDAM:Topic]
-* ComputationalTool:featureList:[EDAM:Operation]
-* Course:about:[EDAM:Topic]
-* Dataset:keywords:[EDAM:Topic]
-* FormalParameter:additionalType:[EDAM:Data]
-* FormalParameter:encodingFormat:[EDAM:Format]
-* TrainingMaterial:about:[EDAM:Topic]
+[Bioschemas](https://bioschemas.org/) define profile specifications for life science web resources. Those profiles are built on existing [Schema.org](http://Schema.org) types, and add properties tailored for the documentation of datasets, software and training materials. Those properties are classified into categories: must be used (minimum), should be used (recommended), and could be used (optional). 
 
-Deployed by:
+Bioschemas profiles make use of domain ontologies to use for the value of properties. EDAM is used as a controlled vocabulary to annotate datasets and software topics, operations, and data formats. This provides consistency within life science resources using Bioschemas and/or EDAM annotations.
 
-* ELIXIR, TeSS, bio.tools
-* EMBL-EBI training
-* FAIRsharing
-* Galaxy
-* IFB
-* RDMkit
-* STRING
-* UniProt
-* WorkflowHub
+Reference
 
-### Reference
-
-Gray, A.J.G, Goble, C.A. and Jimenez, R., 2017. Bioschemas: From Potato Salad to Protein Annotation. In International Semantic Web Conference (Posters, Demos & Industry Tracks).
+* Gray, A.J.G, Goble, C.A. and Jimenez, R., 2017. Bioschemas: From Potato Salad to Protein Annotation. In International Semantic Web Conference (Posters, Demos & Industry Tracks).

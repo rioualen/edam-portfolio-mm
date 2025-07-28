@@ -17,7 +17,7 @@ feature_row:
     title: "Bioschemas"
     excerpt: "Metadata schemas for life science resources."
     url: "/portfolio/bioschemas/"
-    btn_label: "Explore"
+    btn_label: "Learn More"
     btn_class: "btn--primary"
 
   - image_path: /assets/images/biotools_300px.png
@@ -25,12 +25,10 @@ feature_row:
     title: "ELIXIR Bio.tools"
     excerpt: "A registry of tools annotated with EDAM."
     url: "/portfolio/biotools/"
-    btn_label: "Explore"
+    btn_label: "Learn More"
     btn_class: "btn--primary"
 
 ---
-
-## EDAM portfolio
 
 This is a gallery of projects involving the EDAM ontology.
 

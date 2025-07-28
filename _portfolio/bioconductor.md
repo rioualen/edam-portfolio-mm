@@ -14,7 +14,7 @@ The [Bioconductor project](https://bioconductor.org/) aims to develop, support, 
 
 Currently those packages are tagged using the [biocViews package](https://github.com/Bioconductor/biocViews). Starting 2024, a collaboration with [EDAM](https://github.com/edamontology) aims to annotate Bioconductor packages using EDAM, and synchronising them with the ELIXIR [Research software Ecosystem](https://research-software-ecosystem.github.io/) and the ELIXIR [bio.tools registry](https://bio.tools/). This will increase the visibility and interoperability of Bioconductor packages, as well as the quality of their metadata. 
 
-References
+## References
 
 * Gentleman, R. C., Carey, V. J., Bates, D. M., Bolstad, B., Dettling, M., Dudoit, S., Ellis, B., Gautier, L., Ge, Y., Gentry, J., Hornik, K., Hothorn, T., Huber, W., Iacus, S., Irizarry, R., Leisch, F., Li, C., Maechler, M., Rossini, A. J., … Zhang, J. (2004). Bioconductor: Open software development for computational biology and bioinformatics. Genome Biology, 5(10), R80. https://doi.org/10.1186/gb-2004-5-10-r80
 * Rioualen, C., Barre, A., Dartigues, B., Carey, V. J., Kalas, M., Lobentanzer, S., Ménager, H., Neumann, S., Nishida, K., Schwämmle, V., Vu, A. N., Willighagen, E., & Doyle, M. A. (2025). BioHackEU24 report: Integrating Bioconductor packages with the ELIXIR Research Software Ecosystem using EDAM. OSF. https://doi.org/10.37044/osf.io/dsgnw_v1
