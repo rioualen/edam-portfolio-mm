@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 classes: wide
 feature_row:
-  - image_path: /assets/images/Bioconductor_resized.png
+  - image_path: /assets/images/bioconductor_300px.png
     alt: "Bioconductor"
     title: "Bioconductor"
     excerpt: "Annoation of Bioconductor packages using EDAM."
@@ -12,7 +12,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/Bioschemas_resized.png
+  - image_path: /assets/images/bioschemas_300px.png
     alt: "Bioschemas"
     title: "Bioschemas"
     excerpt: "Metadata schemas for life science resources."
@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Explore"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/biotools_resized.png
+  - image_path: /assets/images/biotools_300px.png
     alt: "ELIXIR Bio.tools"
     title: "ELIXIR Bio.tools"
     excerpt: "A registry of tools annotated with EDAM."

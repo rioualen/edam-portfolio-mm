@@ -5,7 +5,7 @@ permalink: /portfolio/biotools/
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-  <img src="{{ '/assets/images/biotools_resized.png' | relative_url }}" alt="Bioconductor logo" style="height: auto;">
+  <img src="{{ '/assets/images/biotools_300px.png' | relative_url }}" alt="bio.tools logo" style="height: auto;">
   <h2 style="margin: 0;">bio.tools</h2>
 </div>
 

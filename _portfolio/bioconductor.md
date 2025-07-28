@@ -6,13 +6,13 @@ permalink: /portfolio/bioconductor/
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-  <img src="{{ '/assets/images/Bioconductor_resized.png' | relative_url }}" alt="Bioconductor logo" style="height: auto;">
+  <img src="{{ '/assets/images/bioconductor_300px.png' | relative_url }}" alt="Bioconductor logo" style="height: auto;">
   <h2 style="margin: 0;">Bioconductor</h2>
 </div>
 
-The Bioconductor project(link) aims to develop, support, and disseminate free open source software for the reproducible analysis of data from biological experiments. It holds a collection of more than 2,000 curated software packages, supporting a vast range of bioinformatics applications that are widely used for gene expression analysis, visualisation, data integration and more.
+The [Bioconductor project](https://bioconductor.org/) aims to develop, support, and disseminate free open source software for the reproducible analysis of data from biological experiments. It holds a collection of more than 2,000 curated software packages, supporting a vast range of bioinformatics applications that are widely used for gene expression analysis, visualisation, data integration and more.
 
-Currently those packages are tagged using the biocViews package(link). Starting 2024, a collaboration with EDAM(link) aims to annotate Bioconductor packages using EDAM, and synchronising them with the ELIXIR Research software Ecosystem(link) and the ELIXIR bio.tools registry(link). This will increase the visibility and interoperability of Bioconductor packages, as well as the quality of their metadata. 
+Currently those packages are tagged using the [biocViews package](https://github.com/Bioconductor/biocViews). Starting 2024, a collaboration with [EDAM](https://github.com/edamontology) aims to annotate Bioconductor packages using EDAM, and synchronising them with the ELIXIR [Research software Ecosystem](https://research-software-ecosystem.github.io/) and the ELIXIR [bio.tools registry](https://bio.tools/). This will increase the visibility and interoperability of Bioconductor packages, as well as the quality of their metadata. 
 
 References
 
