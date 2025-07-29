@@ -14,7 +14,7 @@ search: false
 
 .feature__item:hover {
   border: 1px;
-  border-color: #666;
+  border-color: #2b547e;
   box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
   transition: all 0.2s ease-in-out;
 }
@@ -22,7 +22,7 @@ search: false
 .feature__wrapper {
   display: flex;
   flex-wrap: wrap;
-  gap: 1.5rem; /* space between boxes */
+  gap: 5rem; /* space between boxes */
 }
 
 // Override default font size
