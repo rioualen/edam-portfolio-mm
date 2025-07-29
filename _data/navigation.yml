@@ -4,6 +4,12 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
-
+    children:
+      - title: "ELIXIR Bio.tools"
+        url: "/portfolio/biotools/"
+      - title: "Galaxy"
+        url: "/portfolio/galaxy/"
+	  
   - title: "About"
     url: /about/
+

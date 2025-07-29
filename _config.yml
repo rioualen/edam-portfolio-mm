@@ -23,6 +23,10 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+
+# Enable sidebar nav
+show_sidebar: true
+
   
 defaults:
   - scope:
@@ -31,4 +35,6 @@ defaults:
     values:
       css: "main"
       layout: single
-
+      sidebar:
+        nav: "portfolio"
+        title: Portfolio Navigation
