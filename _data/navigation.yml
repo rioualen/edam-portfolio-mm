@@ -6,7 +6,7 @@ main:
     url: /portfolio/
     children:
       - title: "Bioconductor"
-        url: "/portfolio/bioconductor/"
+        url: /portfolio/bioconductor/
   
   - title: "About"
     url: /about/
