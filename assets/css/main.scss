@@ -28,9 +28,6 @@ p {
   font-size: 12px; // Try 13px or 0.875rem for smaller size
 }
 
-// Then import theme
-//@import "minimal-mistakes/main";
-
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
