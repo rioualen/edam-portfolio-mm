@@ -5,6 +5,7 @@ permalink: /portfolio/
 classes: wide
 sidebar:
   nav: "navigation"
+nav: "navigation"
 feature_row:
 
   - image_path: /assets/images/bioconductor.png
