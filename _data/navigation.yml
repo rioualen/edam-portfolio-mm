@@ -3,10 +3,13 @@ main:
     url: "/"
 
   - title: "Portfolio"
-    children:
-      - title: "Bioconductor"
-        url: "/portfolio/bioconductor/"
+    url: "/portfolio/"
   
   - title: "About"
     url: "/about/"
 
+port:
+  - title: Getting Started
+    children:
+      - title: "Bioconductor"
+        url: "/portfolio/bioconductor/"

@@ -5,7 +5,7 @@ parent: "Portfolio"
 permalink: /portfolio/bioconductor/
 classes: wide
 sidebar:
-  nav: "navigation"
+  nav: "port"
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
