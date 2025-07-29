@@ -9,7 +9,7 @@ main:
         url: "/portfolio/biotools/"
       - title: "Galaxy"
         url: "/portfolio/galaxy/"
-	  
+  
   - title: "About"
     url: /about/
 
