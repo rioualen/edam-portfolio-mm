@@ -4,6 +4,8 @@ nav_order: 1
 parent: "Portfolio"
 permalink: /portfolio/galaxy/
 classes: wide
+sidebar:
+  nav: "port"
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
@@ -15,5 +17,6 @@ Description [link]()
 
 ## References
 
-* Ref 1
-* Ref 2
+Ref 1
+
+Ref 2

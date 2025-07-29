@@ -1,8 +1,11 @@
 ---
-layout: single
 title: "The bio.tools registry"
+nav_order: 1
+parent: "Portfolio"
 permalink: /portfolio/biotools/
 classes: wide
+sidebar:
+  nav: "port"
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
@@ -14,6 +17,6 @@ The ELIXIR [bio.tools](https://bio.tools/) registry provides detailed metadata a
 
 The bio.tools collection of resources is curated and annotated using EDAM concepts, allowing for keyword search within the registry, and interoperability with many resources linked with bio.tools. 
 
-Reference
+## Reference
 
-* Ison, J., Ienasescu, H., Chmura, P., Rydza, E., Ménager, H., Kalaš, M., Schwämmle, V., Grüning, B., Beard, N., Lopez, R., Duvaud, S., Stockinger, H., Persson, B., Vařeková, R. S., Raček, T., Vondrášek, J., Peterson, H., Salumets, A., Jonassen, I., . . . Brunak, S. (2019). The bio.tools registry of software tools and data resources for the life sciences. Genome Biology, 20(1), 164. https://doi.org/10.1186/s13059-019-1772-6
+Ison, J., Ienasescu, H., Chmura, P., Rydza, E., Ménager, H., Kalaš, M., Schwämmle, V., Grüning, B., Beard, N., Lopez, R., Duvaud, S., Stockinger, H., Persson, B., Vařeková, R. S., Raček, T., Vondrášek, J., Peterson, H., Salumets, A., Jonassen, I., . . . Brunak, S. (2019). The bio.tools registry of software tools and data resources for the life sciences. Genome Biology, 20(1), 164. https://doi.org/10.1186/s13059-019-1772-6
