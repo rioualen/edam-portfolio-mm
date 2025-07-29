@@ -6,6 +6,7 @@ classes: wide
 sidebar:
   nav: "port"
 feature_row:
+    type: "left"
 
   - image_path: /assets/images/bioconductor.png
     alt: "Bioconductor"
@@ -14,7 +15,6 @@ feature_row:
     url: "/portfolio/bioconductor/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-    type: "left"
 
   - image_path: /assets/images/bioschemas.png
     alt: "Bioschemas"
