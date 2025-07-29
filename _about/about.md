@@ -4,6 +4,10 @@ title: "About"
 permalink: /about/
 ---
 
+## test location
+
+this is directory _about/about.md
+
 ## Community
 
 ELIXIR slack [channel](https://elixir-europe.slack.com/archives/C07CJL8RKCZ): #edam_ontology
