@@ -39,7 +39,7 @@ feature_row:
 
   - image_path: /assets/images/cwl.png
     alt: "Common Workflow Language"
-    title: "Common Workflow Language"
+    title: "CWL"
     excerpt: "Stuff about CWL and EDAM relation."
     url: "/portfolio/cwl/"
     btn_label: "Learn More"
