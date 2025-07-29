@@ -37,4 +37,4 @@ defaults:
       layout: single
       sidebar:
         nav: "portfolio"
-        title: Portfolio Navigation
+        title: "Portfolio Navigation"
