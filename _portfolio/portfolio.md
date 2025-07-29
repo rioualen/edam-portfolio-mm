@@ -4,13 +4,6 @@ title: "Portfolio"
 permalink: /portfolio/
 classes: wide
 feature_row:
-  - image_path: /assets/images/galaxy.png
-    alt: "Galaxy"
-    title: "Galaxy"
-    excerpt: "Stuff about Galaxy."
-    url: "/portfolio/galaxy/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 
   - image_path: /assets/images/bioconductor.png
     alt: "Bioconductor"
@@ -36,6 +29,29 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
+  - image_path: /assets/images/galaxy.png
+    alt: "Galaxy"
+    title: "Galaxy"
+    excerpt: "Stuff about Galaxy and EDAM relation."
+    url: "/portfolio/galaxy/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/cwl.png
+    alt: "Common Workflow Language"
+    title: "Common Workflow Language"
+    excerpt: "Stuff about CWL and EDAM relation."
+    url: "/portfolio/cwl/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/workflowhub.png
+    alt: "WorkflowHub"
+    title: "WorkflowHub"
+    excerpt: "Stuff about WorkflowHub and EDAM relation.."
+    url: "/portfolio/workflowhub/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
 
 This is a gallery of projects involving the EDAM ontology.

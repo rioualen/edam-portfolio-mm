@@ -1,13 +1,13 @@
 ---
-title: "Galaxy"
+title: "WorkflowHub"
 nav_order: 1
 parent: "Portfolio"
-permalink: /portfolio/galaxy/
+permalink: /portfolio/workflowhub/
 classes: wide
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-  <img src="{{ '/assets/images/galaxy.png' | relative_url }}" alt="Galaxy logo" style="height: auto;">
+  <img src="{{ '/assets/images/workflowhub.png' | relative_url }}" alt="WorkflowHub logo" style="height: auto;">
   <h2 style="margin: 0;"></h2>
 </div>
 
