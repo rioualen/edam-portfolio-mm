@@ -7,7 +7,7 @@ classes: wide
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-  <img src="{{ '/assets/images/galaxy.png' | relative_url }}" alt="Galaxy logo" style="height: auto;">
+  <img src="{{ '/assets/images/galaxy.png' | relative_url }}" alt="Galaxy logo" style="width: 300px; height: auto;">
   <h2 style="margin: 0;"></h2>
 </div>
 
