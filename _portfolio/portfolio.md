@@ -6,7 +6,6 @@ classes: wide
 sidebar:
   nav: "port"
 feature_row:
-    type: "left"
 
   - image_path: /assets/images/bioconductor.png
     alt: "Bioconductor"
@@ -59,4 +58,4 @@ feature_row:
 
 This is a gallery of projects involving the EDAM ontology.
 
-{% include feature_row %}
+{% include feature_row type="left" %}
