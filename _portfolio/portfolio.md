@@ -3,6 +3,8 @@ layout: single
 title: "Portfolio"
 permalink: /portfolio/
 classes: wide
+sidebar:
+  nav: "port"
 feature_row:
 
   - image_path: /assets/images/bioconductor.png
@@ -23,8 +25,8 @@ feature_row:
     btn_class: "btn--primary"
 
   - image_path: /assets/images/biotools.png
-    alt: "ELIXIR Bio.tools"
-    title: "ELIXIR Bio.tools"
+    alt: "ELIXIR bio.tools"
+    title: "ELIXIR bio.tools"
     excerpt: "A registry of tools annotated with EDAM."
     url: "/portfolio/biotools/"
     btn_label: "Learn More"

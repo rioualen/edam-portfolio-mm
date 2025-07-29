@@ -9,7 +9,17 @@ main:
     url: "/about/"
 
 port:
-  - title: Getting Started
+  - title: Portfolio
     children:
       - title: "Bioconductor"
         url: "/portfolio/bioconductor/"
+      - title: "Bioschemas"
+        url: "/portfolio/bioschemas/"
+      - title: "bio.tools"
+        url: "/portfolio/biotools/"
+      - title: "Galaxy"
+        url: "/portfolio/galaxy/"
+      - title: "CWL"
+        url: "/portfolio/cwl/"
+      - title: "WorkflowHub"
+        url: "/portfolio/workflowhub/"
