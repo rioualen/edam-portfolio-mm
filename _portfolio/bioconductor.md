@@ -7,7 +7,7 @@ classes: wide
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-  <img src="{{ '/assets/images/bioconductor_300px.png' | relative_url }}" alt="Bioconductor logo" style="height: auto;">
+  <img src="{{ '/assets/images/bioconductor.png' | relative_url }}" alt="Bioconductor logo" style="height: auto;">
   <h2 style="margin: 0;"></h2>
 </div>
 
