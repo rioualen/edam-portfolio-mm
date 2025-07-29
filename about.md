@@ -3,6 +3,10 @@ layout: single
 title: "About"
 ---
 
+## test file location
+
+this is root of repo
+
 ## Community
 
 ELIXIR slack [channel](https://elixir-europe.slack.com/archives/C07CJL8RKCZ): #edam_ontology
