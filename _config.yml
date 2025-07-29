@@ -36,5 +36,5 @@ defaults:
       css: "main"
       layout: single
       sidebar:
-        nav: "portfolio"
-        title: "Portfolio Navigation"
+        nav: "navigation"
+        title: "Menu"
