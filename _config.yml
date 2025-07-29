@@ -35,5 +35,3 @@ defaults:
     values:
       css: "main"
       layout: single
-      sidebar:
-        nav: "navigation"
