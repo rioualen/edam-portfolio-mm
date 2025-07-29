@@ -5,13 +5,11 @@ search: false
 
 .feature__item {
   border: 0.5px solid #ccc;   // light gray border
-//  border-radius: 8px;       // optional rounded corners
+  border-radius: 0px;       // optional rounded corners
   padding: 1rem;            // optional padding inside the box
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.05); // optional soft shadow
   flex: 1 1 300px; /* makes boxes responsive */
   margin-bottom: 5rem; /* optional: vertical spacing */
-//}
-//.feature__item:
   hover {
     border: 1px;
     border-color: #000;

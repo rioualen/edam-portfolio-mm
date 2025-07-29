@@ -3,6 +3,8 @@ layout: single
 title: "Portfolio"
 permalink: /portfolio/
 classes: wide
+sidebar:
+  nav: "navigation"
 feature_row:
 
   - image_path: /assets/images/bioconductor.png
