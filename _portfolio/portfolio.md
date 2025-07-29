@@ -3,8 +3,6 @@ layout: single
 title: "Portfolio"
 permalink: /portfolio/
 classes: wide
-sidebar:
-	nav: "port"
 feature_row:
 
   - image_path: /assets/images/bioconductor.png
@@ -14,6 +12,7 @@ feature_row:
     url: "/portfolio/bioconductor/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
+    type: "left"
 
   - image_path: /assets/images/bioschemas.png
     alt: "Bioschemas"
