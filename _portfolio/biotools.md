@@ -2,6 +2,7 @@
 layout: single
 title: "The bio.tools registry"
 permalink: /portfolio/biotools/
+classes: wide
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">

@@ -3,6 +3,7 @@ title: "Bioschemas"
 nav_order: 1
 parent: "Portfolio"
 permalink: /portfolio/bioschemas/
+classes: wide
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
