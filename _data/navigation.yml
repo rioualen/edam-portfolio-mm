@@ -4,7 +4,9 @@ main:
 
   - title: "Portfolio"
     url: /portfolio/
-
+    children:
+      - title: "Bioconductor"
+        url: /portfolio/bioconductor/
   
   - title: "About"
     url: /about/

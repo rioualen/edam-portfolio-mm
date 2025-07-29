@@ -6,7 +6,6 @@ permalink: /portfolio/bioconductor/
 classes: wide
 sidebar:
   nav: "navigation"
-nav: "navigation"
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
