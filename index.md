@@ -2,6 +2,7 @@
 layout: single
 title: "The EDAM ontology"
 excerpt: "Software metadata, bio.tools, and ontology integration"
+classes: wide
 ---
 
 [EDAM](https://github.com/edamontology) is an ontology focusing on the field of data analysis and management, in life science and beyond. An ontology allows conceptualising complex knowledge by defining explicit, shared vocabulary in the form of concepts that have persistent IDs and can be linked through semantic relationships. EDAM has 4 main sections related to one another: ‘operations’ are concrete actions that usually have defined input and output data, ‘data’ are associated with file ‘formats’, and they can all have one or several ‘topics’.
