@@ -3,6 +3,14 @@
 search: false
 ---
 
+.feature__item {
+  border: 1px solid #ccc;   // light gray border
+//  border-radius: 8px;       // optional rounded corners
+  padding: 1rem;            // optional padding inside the box
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.05); // optional soft shadow
+}
+
+
 // Override default font size
 html {
   font-size: 12px; // Try 13px or 0.875rem for smaller size

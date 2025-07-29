@@ -23,9 +23,6 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
-
-sass:
-  style: compressed
   
 defaults:
   - scope:
