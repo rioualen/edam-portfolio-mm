@@ -1,13 +1,12 @@
 main:
   - title: "Home"
-    url: /
+    url: "/"
 
   - title: "Portfolio"
-    url: /portfolio/
     children:
       - title: "Bioconductor"
-        url: /portfolio/bioconductor/
+        url: "/portfolio/bioconductor/"
   
   - title: "About"
-    url: /about/
+    url: "/about/"
 

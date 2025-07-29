@@ -37,4 +37,3 @@ defaults:
       layout: single
       sidebar:
         nav: "navigation"
-        title: "Menu"
