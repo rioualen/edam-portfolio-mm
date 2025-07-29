@@ -8,6 +8,8 @@ search: false
 //  border-radius: 8px;       // optional rounded corners
   padding: 1rem;            // optional padding inside the box
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.05); // optional soft shadow
+  flex: 1 1 300px; /* makes boxes responsive */
+  margin-bottom: 1rem; /* optional: vertical spacing */
 }
 
 .feature__item:hover {
@@ -17,6 +19,11 @@ search: false
   transition: all 0.2s ease-in-out;
 }
 
+.feature__wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem; /* space between boxes */
+}
 
 // Override default font size
 p {
