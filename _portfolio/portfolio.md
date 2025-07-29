@@ -58,4 +58,4 @@ feature_row:
 
 This is a gallery of projects involving the EDAM ontology.
 
-{% include feature_row type="left" %}
+{% include feature_row %}
