@@ -1,8 +1,8 @@
 ---
-title: "X"
+title: "OpenEBench"
 nav_order: 1
 parent: "Portfolio"
-permalink: /portfolio/x/
+permalink: /portfolio/openebench/
 classes: wide
 sidebar:
   nav: "port"
