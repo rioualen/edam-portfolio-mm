@@ -10,7 +10,7 @@ feature_row:
   - image_path: /assets/images/bioconductor.png
     alt: "Bioconductor"
     title: "Bioconductor"
-    excerpt: "Annoation of Bioconductor packages using EDAM."
+    excerpt: "Annotation of Bioconductor packages using EDAM."
     url: "/portfolio/bioconductor/"
     btn_label: "Learn More"
     btn_class: "btn--primary"

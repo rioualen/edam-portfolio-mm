@@ -18,7 +18,7 @@ feature_row:
 
   - image_path: /assets/images/biotools.png
     alt: "ELIXIR bio.tools"
-    title: "ELIXIR bio.tools"
+    title: "bio.tools"
     excerpt: "A registry of tools annotated with EDAM."
     url: "/portfolio/biotools/"
     btn_label: "Learn More"
