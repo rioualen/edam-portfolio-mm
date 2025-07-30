@@ -31,11 +31,11 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/galaxy.png
-    alt: "Galaxy"
-    title: "Galaxy"
-    excerpt: "Stuff about Galaxy and EDAM relation."
-    url: "/portfolio/galaxy/"
+  - image_path: /assets/images/openebench.png
+    alt: "OpenEBench"
+    title: "OpenEBench"
+    excerpt: "Stuff about OpenEBench and EDAM relation."
+    url: "/portfolio/openebench/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 

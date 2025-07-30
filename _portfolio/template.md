@@ -4,6 +4,8 @@ nav_order: 1
 parent: "Portfolio"
 permalink: /portfolio/x/
 classes: wide
+sidebar:
+  nav: "port"
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
