@@ -6,6 +6,23 @@ permalink: /portfolio/openebench/
 classes: wide
 sidebar:
   nav: "port"
+feature_row:
+
+  - image_path: /assets/images/bioschemas.png
+    alt: "Bioschemas"
+    title: "Bioschemas"
+    excerpt: "Metadata schemas for life science resources."
+    url: "/portfolio/bioschemas/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/biotools.png
+    alt: "ELIXIR bio.tools"
+    title: "ELIXIR bio.tools"
+    excerpt: "A registry of tools annotated with EDAM."
+    url: "/portfolio/biotools/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
@@ -20,8 +37,12 @@ Rendering FAIR principles for research software into measurable indicators requi
 ## References
 
 Codó, L., Guitarte, A. R., Fernández, J. M., Team, T. O., Buchaca, J. L. G., & Capella-Gutierrez, S. (2024). OpenEBench: Advancing AI benchmarking. F1000Research, 13. https://doi.org/10.7490/f1000research.1119729.1 
+
 Pico, E. M. del, Gelpi, J. L., & Capella-Gutiérrez, S. (2022). FAIRsoft—A practical implementation of FAIR principles for research software (p. 2022.05.04.490563). bioRxiv. https://doi.org/10.1101/2022.05.04.490563
 
 ## See also
 
 Galaxy, Workflomics, bio.tools Bioschemas
+
+{% include feature_row %}
+
