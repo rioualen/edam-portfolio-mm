@@ -50,7 +50,7 @@ feature_row:
   - image_path: /assets/images/workflowhub.png
     alt: "WorkflowHub"
     title: "WorkflowHub"
-    excerpt: "Stuff about WorkflowHub and EDAM relation.."
+    excerpt: "Stuff about WorkflowHub and EDAM relation."
     url: "/portfolio/workflowhub/"
     btn_label: "Learn More"
     btn_class: "btn--primary"

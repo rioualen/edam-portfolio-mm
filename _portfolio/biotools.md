@@ -6,6 +6,23 @@ permalink: /portfolio/biotools/
 classes: wide
 sidebar:
   nav: "port"
+feature_row:
+
+  - image_path: /assets/images/workflowhub.png
+    alt: "WorkflowHub"
+    title: "WorkflowHub"
+    excerpt: "Stuff about WorkflowHub and EDAM relation."
+    url: "/portfolio/workflowhub/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/bioschemas.png
+    alt: "Bioschemas"
+    title: "Bioschemas"
+    excerpt: "Metadata schemas for life science resources."
+    url: "/portfolio/bioschemas/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
@@ -20,3 +37,7 @@ The bio.tools collection of resources is curated and annotated using EDAM concep
 ## Reference
 
 Ison, J., Ienasescu, H., Chmura, P., Rydza, E., Ménager, H., Kalaš, M., Schwämmle, V., Grüning, B., Beard, N., Lopez, R., Duvaud, S., Stockinger, H., Persson, B., Vařeková, R. S., Raček, T., Vondrášek, J., Peterson, H., Salumets, A., Jonassen, I., . . . Brunak, S. (2019). The bio.tools registry of software tools and data resources for the life sciences. Genome Biology, 20(1), 164. https://doi.org/10.1186/s13059-019-1772-6
+
+## See also
+
+{% include feature_row %}

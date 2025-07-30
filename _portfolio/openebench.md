@@ -42,7 +42,5 @@ Pico, E. M. del, Gelpi, J. L., & Capella-Gutiérrez, S. (2022). FAIRsoft—A pra
 
 ## See also
 
-Galaxy, Workflomics, bio.tools Bioschemas
-
 {% include feature_row %}
 
