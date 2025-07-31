@@ -4,11 +4,7 @@
   {% assign gallery = page.gallery %}
 {% endif %}
 
-{% if include.layout %}
-  {% assign gallery_layout = include.layout %}
-{% else %}
-  {% assign gallery_layout = 'fifth' %}
-{% endif %}
+{% assign gallery_layout = 'fifth' %}
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
