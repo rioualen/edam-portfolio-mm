@@ -6,23 +6,17 @@ permalink: /portfolio/bioschemas/
 classes: wide
 sidebar:
   nav: "port"
-feature_row:
+gallery:
 
   - image_path: /assets/images/workflowhub.png
     alt: "WorkflowHub"
     title: "WorkflowHub"
-    excerpt: "Stuff about WorkflowHub and EDAM relation."
-    url: "/portfolio/workflowhub/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
+    url:  /assets/images/workflowhub.png
 
   - image_path: /assets/images/biotools.png
     alt: "ELIXIR bio.tools"
-    title: "bio.tools"
-    excerpt: "A registry of tools annotated with EDAM."
-    url: "/portfolio/biotools/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
+    url: /assets/images/biotools.png
+
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
@@ -41,5 +35,6 @@ Gray, A.J.G, Goble, C.A. and Jimenez, R., 2017. Bioschemas: From Potato Salad to
 
 ## See also
 
-{% include feature_row %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
 

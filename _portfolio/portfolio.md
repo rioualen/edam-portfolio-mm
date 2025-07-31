@@ -31,19 +31,19 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/openebench.png
-    alt: "OpenEBench"
-    title: "OpenEBench"
-    excerpt: "Stuff about OpenEBench and EDAM relation."
-    url: "/portfolio/openebench/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
-
   - image_path: /assets/images/cwl.png
     alt: "Common Workflow Language"
     title: "CWL"
     excerpt: "Stuff about CWL and EDAM relation."
     url: "/portfolio/cwl/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
+  - image_path: /assets/images/openebench.png
+    alt: "OpenEBench"
+    title: "OpenEBench"
+    excerpt: "Stuff about OpenEBench and EDAM relation."
+    url: "/portfolio/openebench/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 

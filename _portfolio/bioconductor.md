@@ -15,7 +15,7 @@ sidebar:
 
 The [Bioconductor project](https://bioconductor.org/){:target="_blank"} aims to develop, support, and disseminate free open source software for the reproducible analysis of data from biological experiments. It holds a collection of more than 2,000 curated software packages, supporting a vast range of bioinformatics applications that are widely used for gene expression analysis, visualisation, data integration and more.
 
-Currently those packages are tagged using the [biocViews package](https://github.com/Bioconductor/biocViews){:target="_blank"}. Starting 2024, a collaboration with [EDAM](https://github.com/edamontology) aims to annotate Bioconductor packages using EDAM, and synchronising them with the ELIXIR [Research software Ecosystem](https://research-software-ecosystem.github.io/){:target="_blank"} and the ELIXIR [bio.tools registry](https://bio.tools/){:target="_blank"}. This will increase the visibility and interoperability of Bioconductor packages, as well as the quality of their metadata.
+Currently those packages are tagged using the [biocViews package](https://github.com/Bioconductor/biocViews){:target="_blank"}. Starting 2024, a collaboration with [EDAM](https://github.com/edamontology){:target="_blank"} aims to annotate Bioconductor packages using EDAM, and synchronising them with the ELIXIR [Research software Ecosystem](https://research-software-ecosystem.github.io/){:target="_blank"} and the ELIXIR [bio.tools registry](https://bio.tools/){:target="_blank"}. This will increase the visibility and interoperability of Bioconductor packages, as well as the quality of their metadata.
 
 ## References
 
