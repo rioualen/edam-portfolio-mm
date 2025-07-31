@@ -238,6 +238,15 @@ figure {
       }
     }
 
+  &.fifth{
+    > a,
+    > img {
+      @include breakpoint($small) {
+        width: calc(20% - 0.5em);
+      }
+    }
+  }
+
     figcaption {
       width: 100%;
     }

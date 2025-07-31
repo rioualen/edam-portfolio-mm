@@ -10,12 +10,11 @@ gallery:
 
   - image_path: /assets/images/workflowhub.png
     alt: "WorkflowHub"
-    title: "WorkflowHub"
-    url:  /assets/images/workflowhub.png
+    url: "/portfolio/workflowhub/"
 
   - image_path: /assets/images/biotools.png
     alt: "ELIXIR bio.tools"
-    url: /assets/images/biotools.png
+    url: "/portfolio/biotools/"
 
 ---
 
@@ -35,6 +34,6 @@ Gray, A.J.G, Goble, C.A. and Jimenez, R., 2017. Bioschemas: From Potato Salad to
 
 ## See also
 
-{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery class="fifth" %}
 
 
