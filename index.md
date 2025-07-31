@@ -13,4 +13,4 @@ classes: wide
 
 Those concepts can be used to annotate resources, choose proper terminologies, and ultimately increase the findability and interoperability of tools or services. The prupose of this portfolio is to describe those resources and the way they make use of EDAM. 
 
-EDAM is developed collaboratively on [Github](https://github.com/edamontology){:target="_blank"}.s
+EDAM is developed collaboratively on [Github](https://github.com/edamontology){:target="_blank"}.
