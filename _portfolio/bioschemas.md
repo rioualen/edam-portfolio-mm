@@ -34,6 +34,6 @@ Gray, A.J.G, Goble, C.A. and Jimenez, R., 2017. Bioschemas: From Potato Salad to
 
 ## See also
 
-{% include gallery class="fifth" gallery_layout="fifth" %}
+{% include gallery class="fifth"  %}
 
 
