@@ -193,8 +193,8 @@ li ol {
 figure {
   display: -webkit-box;
   display: flex;
-  -webkit-box-pack: left;
-  justify-content: space-between;
+  -webkit-box-pack: justify;
+  justify-content: start;
   -webkit-box-align: start;
   align-items: flex-start;
   flex-wrap: wrap;
