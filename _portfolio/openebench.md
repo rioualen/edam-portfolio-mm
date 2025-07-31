@@ -6,23 +6,15 @@ permalink: /portfolio/openebench/
 classes: wide
 sidebar:
   nav: "port"
-feature_row:
+gallery:
 
   - image_path: /assets/images/bioschemas.png
     alt: "Bioschemas"
-    title: "Bioschemas"
-    excerpt: "Metadata schemas for life science resources."
     url: "/portfolio/bioschemas/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 
   - image_path: /assets/images/biotools.png
     alt: "ELIXIR bio.tools"
-    title: "bio.tools"
-    excerpt: "A registry of tools annotated with EDAM."
     url: "/portfolio/biotools/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
@@ -42,5 +34,5 @@ Pico, E. M. del, Gelpi, J. L., & Capella-Gutiérrez, S. (2022). FAIRsoft—A pra
 
 ## See also
 
-{% include feature_row %}
+{% include gallery class="fifth"  %}
 

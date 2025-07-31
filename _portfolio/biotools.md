@@ -6,23 +6,15 @@ permalink: /portfolio/biotools/
 classes: wide
 sidebar:
   nav: "port"
-feature_row:
+gallery:
 
   - image_path: /assets/images/workflowhub.png
     alt: "WorkflowHub"
-    title: "WorkflowHub"
-    excerpt: "Stuff about WorkflowHub and EDAM relation."
     url: "/portfolio/workflowhub/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 
   - image_path: /assets/images/bioschemas.png
     alt: "Bioschemas"
-    title: "Bioschemas"
-    excerpt: "Metadata schemas for life science resources."
     url: "/portfolio/bioschemas/"
-    btn_label: "Learn More"
-    btn_class: "btn--primary"
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
@@ -40,4 +32,4 @@ Ison, J., Ienasescu, H., Chmura, P., Rydza, E., Ménager, H., Kalaš, M., Schw
 
 ## See also
 
-{% include feature_row %}
+{% include gallery class="fifth"  %}
