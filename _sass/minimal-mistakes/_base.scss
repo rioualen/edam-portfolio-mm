@@ -217,6 +217,8 @@ figure {
     display: block;
   }
 
+/* shameful manual tweaking starts here */
+
   &.half {
     > a,
     > img {
@@ -246,6 +248,8 @@ figure {
       }
     }
   }
+
+/* shameful manual tweaking ends here */
 
     figcaption {
       width: 100%;
