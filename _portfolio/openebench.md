@@ -30,7 +30,7 @@ feature_row:
   <h2 style="margin: 0;"></h2>
 </div>
 
-[OpenEBench](https://openebench.bsc.es/) aims to be an open platform providing both support for scientific benchmarking and an active observatory of software quality for the universe of Life Sciences research software. Its goal is to ensure the quality and sustainability of resources, as per the FAIR principles. In practice, it implements a scoring system to weight a variety of indicators, and offer a quantitative assessment of the FAIRness of software.
+[OpenEBench](https://openebench.bsc.es/){:target="_blank"} aims to be an open platform providing both support for scientific benchmarking and an active observatory of software quality for the universe of Life Sciences research software. Its goal is to ensure the quality and sustainability of resources, as per the FAIR principles. In practice, it implements a scoring system to weight a variety of indicators, and offer a quantitative assessment of the FAIRness of software.
 
 Rendering FAIR principles for research software into measurable indicators requires the exploration of the available metadata and provides quantifiable metrics like the existing  documentation of input and output data types and formats. This is allowed by using the EDAM ontology for the annotation of research software in data sources such as bio.tools or Galaxy.
 

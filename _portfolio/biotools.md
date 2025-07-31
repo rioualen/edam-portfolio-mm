@@ -30,7 +30,7 @@ feature_row:
   <h2 style="margin: 0;"></h2>
 </div>
 
-The ELIXIR [bio.tools](https://bio.tools/) registry provides detailed metadata about over 30,000 software tools, databases, and services within the life science community. The registry is edited and maintained by the community, and each new entry is assigned a unique and permanent identifier, making it compliant with the FAIR science recommendations. 
+The ELIXIR [bio.tools](https://bio.tools/){:target="_blank"} registry provides detailed metadata about over 30,000 software tools, databases, and services within the life science community. The registry is edited and maintained by the community, and each new entry is assigned a unique and permanent identifier, making it compliant with the FAIR science recommendations.
 
 The bio.tools collection of resources is curated and annotated using EDAM concepts, allowing for keyword search within the registry, and interoperability with many resources linked with bio.tools. 
 

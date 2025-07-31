@@ -6,6 +6,16 @@ permalink: /portfolio/x/
 classes: wide
 sidebar:
   nav: "port"
+feature_row:
+
+  - image_path: /assets/images/y.png
+    alt: "Y"
+    title: "Y"
+    excerpt: "Stuff about Y and EDAM relation."
+    url: "/portfolio/y/"
+    btn_label: "Learn More"
+    btn_class: "btn--primary"
+
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
@@ -13,10 +23,14 @@ sidebar:
   <h2 style="margin: 0;"></h2>
 </div>
 
-Description [link]() 
+Description [URL X](){:target="_blank"}
 
 ## References
 
 Ref 1
 
 Ref 2
+
+## See also
+
+{% include feature_row %}

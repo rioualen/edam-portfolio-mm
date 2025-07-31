@@ -31,7 +31,7 @@ feature_row:
 </div>
 
 
-[Bioschemas](https://bioschemas.org/) define profile specifications for life science web resources. Those profiles are built on existing [Schema.org](http://Schema.org) types, and add properties tailored for the documentation of datasets, software and training materials. Those properties are classified into categories: must be used (minimum), should be used (recommended), and could be used (optional). 
+[Bioschemas](https://bioschemas.org/){:target="_blank"} define profile specifications for life science web resources. Those profiles are built on existing [Schema.org](http://Schema.org){:target="_blank"} types, and add properties tailored for the documentation of datasets, software and training materials. Those properties are classified into categories: must be used (minimum), should be used (recommended), and could be used (optional).
 
 Bioschemas profiles make use of domain ontologies to use for the value of properties. EDAM is used as a controlled vocabulary to annotate datasets and software topics, operations, and data formats. This provides consistency within life science resources using Bioschemas and/or EDAM annotations.
 

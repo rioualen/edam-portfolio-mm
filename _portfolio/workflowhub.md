@@ -13,10 +13,9 @@ sidebar:
   <h2 style="margin: 0;"></h2>
 </div>
 
-Description [link]() 
+Description [WorkflowHub](https://workflowhub.eu/){:target="_blank"}
 
 ## References
 
-Ref 1
+Gustafsson, O. J. R., Wilkinson, S. R., Bacall, F., Soiland-Reyes, S., Leo, S., Pireddu, L., Owen, S., Juty, N., Fernández, J. M., Brown, T., Ménager, H., Grüning, B., Capella-Gutierrez, S., Coppens, F., & Goble, C. (2025). WorkflowHub: A registry for computational workflows. Scientific Data, 12(1), 837. https://doi.org/10.1038/s41597-025-04786-3
 
-Ref 2
