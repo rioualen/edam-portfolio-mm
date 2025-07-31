@@ -238,7 +238,7 @@ figure {
       }
     }
 
-  &.fifth{
+  &.fifth {
     > a,
     > img {
       @include breakpoint($small) {
