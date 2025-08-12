@@ -12,7 +12,7 @@ main:
     url: "/about/"
 
 port:
-  - title: Portfolio
+  - title: "Portfolio"
     children:
       - title: "Bioconductor"
         url: "/portfolio/bioconductor/"
@@ -28,7 +28,7 @@ port:
         url: "/portfolio/workflowhub/"
 
 docs:
-  - title: Quick-start guide
+  - title: "Quick-start guide"
     children:
       - title: "Scope of EDAM"
         url: "/docs/01-scope/"
