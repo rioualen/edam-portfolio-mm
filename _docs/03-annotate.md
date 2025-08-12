@@ -1,6 +1,6 @@
 ---
 title: "Annotate with EDAM"
-permalink: /docs/01-scope/
+permalink: /docs/03-annotate/
 excerpt: "Annotate with EDAM."
 toc: true
 nav_order: 1
