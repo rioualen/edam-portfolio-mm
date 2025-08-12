@@ -1,7 +1,7 @@
 ---
 title: "Edit EDAM with git"
 nav_order: 1
-parent: "Quick-start guide"
+parent: "Advanced"
 permalink: /docs/04-git/
 classes: wide
 sidebar:

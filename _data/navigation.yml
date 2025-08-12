@@ -38,5 +38,5 @@ docs:
         url: "/docs/03-annotate/"
   - title: "Advanced"
     children:
-      - title: "Edit EDAM via Github"
+      - title: "Edit EDAM with git"
         url: "/docs/04-git/"
