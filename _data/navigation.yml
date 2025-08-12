@@ -28,7 +28,7 @@ port:
         url: "/portfolio/workflowhub/"
 
 docs:
-  - title: "Quick-start guide"
+  - title: "Getting started"
     children:
       - title: "Scope of EDAM"
         url: "/docs/01-scope/"
@@ -36,3 +36,7 @@ docs:
         url: "/docs/02-navigate/"
       - title: "Annotate with EDAM"
         url: "/docs/03-annotate/"
+  - title: "Advanced"
+    children:
+      - title: "Edit EDAM via Github"
+        url: "/docs/04-git/"
