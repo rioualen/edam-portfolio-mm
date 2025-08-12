@@ -2,10 +2,10 @@
 title: "Scope of EDAM"
 nav_order: 1
 parent: "Quick-start guide"
-permalink: /portfolio/01-scope/
+permalink: /docs/01-scope/
 classes: wide
 sidebar:
-  nav: "port"
+  nav: "docs"
 ---
 
 ## Scope of EDAM
