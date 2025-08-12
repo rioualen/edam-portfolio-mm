@@ -38,3 +38,9 @@ defaults:
     values:
       css: "main"
       layout: single
+  - scope:
+      path: ""
+      type: docs
+    values:
+      css: "main"
+      layout: single
