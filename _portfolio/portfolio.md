@@ -4,7 +4,7 @@ title: "Portfolio"
 permalink: /portfolio/
 classes: wide
 sidebar:
-  nav: "port"
+  nav: "portfolio_sidebar"
 feature_row:
 
   - image_path: /assets/images/bioconductor.png

@@ -5,7 +5,7 @@ parent: "Portfolio"
 permalink: /portfolio/x/
 classes: wide
 sidebar:
-  nav: "port"
+  nav: "portfolio_sidebar"
 feature_row:
 
   - image_path: /assets/images/y.png

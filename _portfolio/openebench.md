@@ -5,7 +5,7 @@ parent: "Portfolio"
 permalink: /portfolio/openebench/
 classes: wide
 sidebar:
-  nav: "port"
+  nav: "portfolio_sidebar"
 gallery:
 
   - image_path: /assets/images/bioschemas.png

@@ -5,7 +5,7 @@ parent: "Portfolio"
 permalink: /portfolio/cwl/
 classes: wide
 sidebar:
-  nav: "port"
+  nav: "portfolio_sidebar"
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
