@@ -2,6 +2,9 @@ main:
   - title: "Home"
     url: "/"
 
+  - title: "Quick-start guide"
+    url: "/docs/"
+
   - title: "Portfolio"
     url: "/portfolio/"
   
@@ -23,3 +26,13 @@ port:
         url: "/portfolio/openebench/"
       - title: "WorkflowHub"
         url: "/portfolio/workflowhub/"
+
+docs:
+  - title: Quick-start guide
+    children:
+      - title: "Scope of EDAM"
+        url: "/docs/01-scope/"
+      - title: "Navigate EDAM"
+        url: "/docs/02-navigate/"
+      - title: "Annotate with EDAM"
+        url: "/docs/03-annotate/"
