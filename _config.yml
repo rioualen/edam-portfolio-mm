@@ -23,6 +23,9 @@ collections:
   portfolio:
     output: true
     permalink: /portfolio/:path/
+  docs:
+    output: true
+    permalink: /docs/:path/
 
 # Enable sidebar nav
 show_sidebar: true
