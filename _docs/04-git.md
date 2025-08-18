@@ -7,7 +7,7 @@ sidebar:
   nav: "documentation_sidebar"
 ---
 
-## Add new concept with git
+### Adding a new concept
 
 1. Fork edamontology repository
 
@@ -29,12 +29,6 @@ sidebar:
 5. Commit changes and revise commit (use conventions + for commit message)
 
 > git commit EDAM_dev.owl
-
-"""
-Add new concept <label> in <class> 
-
-Closes #issue_number[, closes #issue_number2]
-"""
 
 > git log
 

@@ -6,7 +6,6 @@ classes: wide
 sidebar:
   nav: "documentation_sidebar"
 ---
-## Annotate
 
 ### bio.tools
 
@@ -16,9 +15,10 @@ bio.tools holds a collection of more than 30,000 tools, curated and annotated us
 
 Example of a bio.tools entry annotated with EDAM:
 
-<div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-  <img src="{{ '/assets/images/EDAM_biotools.png' | relative_url }}" alt="Example of a tool annotated with EDAM concepts in bio.tools" style="width: 300px; height: auto;">
-  <h2 style="margin: 0;"></h2>
+<div style="text-align: center">
+<img src="{{ '/assets/images/EDAM_biotools.png' | relative_url }}" alt="Example of a tool annotated with EDAM concepts in bio.tools" style="width: 400px; height: auto;">
 </div>
 
 (link to bio.tools gallery page)
+
+(how to add a new tool in bio.tools and annotate it with EDAM)
