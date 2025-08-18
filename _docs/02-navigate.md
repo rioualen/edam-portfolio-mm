@@ -7,3 +7,17 @@ sidebar:
   nav: "documentation_sidebar"
 ---
 ## Navigate EDAM
+
+### The EDAM browser
+
+The EDAM browser was developed in order to navigate in the ontology in an intuitive way, display information on each concept , and provide links to some of the associated resources. It also allows to suggest addition or edition of concepts via the submission of a Github issue.  
+
+Make sure to select the latest version of EDAM:
+
+
+<div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
+  <img src="{{ '/assets/images/EDAM_browser.png' | relative_url }}" alt="Overview of the EDAM browser" style="width: 300px; height: auto;">
+  <h2 style="margin: 0;"></h2>
+</div>
+
+EDAM can also be browsed via BioPortal and the Ontology Lookup Service (OLS).

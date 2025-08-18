@@ -6,4 +6,44 @@ classes: wide
 sidebar:
   nav: "documentation_sidebar"
 ---
-## Edit EDAM
+
+## Add new concept with git
+
+1. Fork edamontology repository
+
+2. Synchronise fork with edamontology main 
+
+3. Create and switch to new branch 
+
+> git checkout -b New_concept_xxx
+
+> git branch
+
+4. Make changes locally in file EDAM_dev.owl
+
+* Add concept
+* Edit IDs accordingly (edam:next_id)
+* Edit timestamps (oboLegacy:date, owl:versionIRI)
+* Edit author (oboInOwl:savedBy)
+
+5. Commit changes and revise commit (use conventions + for commit message)
+
+> git commit EDAM_dev.owl
+
+"""
+Add new concept <label> in <class> 
+
+Closes #issue_number[, closes #issue_number2]
+"""
+
+> git log
+
+6. Submit changes
+
+> git push --set-upstream origin New_concept_xxx 
+
+> git switch main
+
+7. Create pull request and assign reviewer(s)
+
+8. Synchronise fork after PR is merged, switch to main, delete branch
