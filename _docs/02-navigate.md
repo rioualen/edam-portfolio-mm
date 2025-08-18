@@ -14,7 +14,7 @@ The EDAM browser was developed in order to navigate in the ontology in an intuit
 Make sure to select the latest version of EDAM:
 
 <div style="text-align: center">
-<img src="{{ '/assets/images/EDAM_browser.png' | relative_url }}" alt="Overview of the EDAM browser" style="width: 400px; height: auto;">
+<img src="{{ '/assets/images/EDAM_browser.png' | relative_url }}" alt="Overview of the EDAM browser" style="width: 600px; height: auto;">
 </div>
 
 EDAM can also be browsed via BioPortal and the Ontology Lookup Service (OLS).

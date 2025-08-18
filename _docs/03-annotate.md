@@ -16,7 +16,7 @@ bio.tools holds a collection of more than 30,000 tools, curated and annotated us
 Example of a bio.tools entry annotated with EDAM:
 
 <div style="text-align: center">
-<img src="{{ '/assets/images/EDAM_biotools.png' | relative_url }}" alt="Example of a tool annotated with EDAM concepts in bio.tools" style="width: 400px; height: auto;">
+<img src="{{ '/assets/images/EDAM_biotools.png' | relative_url }}" alt="Example of a tool annotated with EDAM concepts in bio.tools" style="width: 600px; height: auto;">
 </div>
 
 (link to bio.tools gallery page)

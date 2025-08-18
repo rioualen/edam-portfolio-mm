@@ -16,7 +16,7 @@ EDAM focuses on concepts related to (life) science data analysis & management, a
 * **Format:** a defined way or layout of representing and structuring data in a computer file
 
 <div style="text-align: center">
-<img src="{{ '/assets/images/EDAM_hierarchy.png' | relative_url }}" alt="Simple EDAM overal hierarchy" style="width: 400px; height: auto;">
+<img src="{{ '/assets/images/EDAM_hierarchy.png' | relative_url }}" alt="Simple EDAM overal hierarchy" style="width: 600px; height: auto;">
 </div>
 
 Ontologies also allow to define semantic relations between classes
@@ -24,11 +24,11 @@ Ontologies also allow to define semantic relations between classes
 Concepts in EDAM allow to define 4 main types of semantic relations
 
 <div style="text-align: center">
-<img src="{{ '/assets/images/EDAM_relations.png' | relative_url }}" alt="Semantic relations between EDAM sub-ontologies" style="width: 400px; height: auto;">
+<img src="{{ '/assets/images/EDAM_relations.png' | relative_url }}" alt="Semantic relations between EDAM sub-ontologies" style="width: 500px; height: auto;">
 </div>
 
 Each class or concept has a set of properties, or attributes, including unique & persistent IDs
 
 <div style="text-align: center">
-<img src="{{ '/assets/images/EDAM_IDs.png' | relative_url }}" alt="Example of concepts, their relations and PIDs" style="width: 400px; height: auto;">
+<img src="{{ '/assets/images/EDAM_IDs.png' | relative_url }}" alt="Example of concepts, their relations and PIDs" style="width: 500px; height: auto;">
 </div>
