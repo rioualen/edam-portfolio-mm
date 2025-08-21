@@ -29,10 +29,11 @@ Click on the tree nodes to display their children and basic class information on
 
 ### Missing concept
 
-- If the desired concept does not seem to be available in EDAM, consider the following:
+If a given concept does not seem to be available in EDAM, consider the following:
+
 - Is there a related concept or a synonym? If so, the corresponding entry can be edited to include a new synonym or edit its definition where relevant. 
 - Is it available in other ontologies? BioPortal and OLS allow navigating numerous ontologies and search for specific terms. 
 - Is it in the scope of EDAM? If it is out of scope or too specific, you may want to consider other domain ontologies such as EFO, MeSH, SO… 
 - If it belongs in EDAM, what would be its parent class? A new concept should be a specialisation of its parent. 
 
-Depending on these elements, you may want to edit an existing concept or suggest the addition of a new one. Guidelines are provided below.
+Depending on these elements, you may want to edit an existing concept or suggest the addition of a new one. Guidelines are provided in the following sections.

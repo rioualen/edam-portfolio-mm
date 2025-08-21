@@ -1,4 +1,4 @@
-title: "Standards"
+title: "Standards and file formats"
 nav_order: 1
 permalink: /docs/11-standards/
 classes: wide

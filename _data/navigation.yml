@@ -42,9 +42,9 @@ documentation_sidebar:
     children:
       - title: "Standards and file formats"
         url: "/docs/11-standards/"
-      - title: "EDAM git repository"
+      - title: "EDAM GitHub repository"
         url: "/docs/12-EDAM_git_repo/"
-      - title: "Editing EDAM with git"
+      - title: "Edit EDAM with git"
         url: "/docs/13-git_add_concept/"
   - title: "Advanced level"
     children:

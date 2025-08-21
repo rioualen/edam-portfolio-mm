@@ -9,7 +9,11 @@ sidebar:
 
 ## Creating or updating a concept
 
-When concepts are needed for a given application, the first step is to identify and list them. This can take the form of a spreadsheet, where each row is associated with a concept, and each column is an attribute. Each concept should have at least the following attributes:
+When concepts are needed for a given application, the first step is to identify and list them. This can take the form of a spreadsheet, where each row is associated with a concept, and each column is an attribute.
+
+Following the previous section (“Navigate EDAM/Finding a concept), concepts that are already found available in EDAM can be associated with their “permanent ID” attribute.
+
+Concepts that are not available can be defined with at least the following attributes:
 
 * A label, or main term used to refer to this concept;
 * The sub-ontology it belongs in (topic, operation, data or format);
@@ -21,6 +25,6 @@ Optional attributes may be included, such as:
 * A link to a corresponding Wikipedia entry;
 * One or several synonyms (exact synonyms or narrow synonyms).
 
-In order to suggest the edition of an existing concept, the information to be changed or added can be included in the table by using the same format.  
+In order to suggest the edition of an existing concept, the information to be changed or added can be included in the table by using the same format.
 
-It is strongly recommended for this work to be done collaboratively, in order to include diverse points of view and reach consensus before implementing changes in the ontology itself. 
+It is strongly recommended for this work to be done collaboratively, in order to include diverse points of view and reach consensus before implementing changes in the ontology itself.

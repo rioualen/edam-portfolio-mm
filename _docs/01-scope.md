@@ -24,9 +24,9 @@ An ontology is essentially a structured vocabulary formalising so-called “conc
 
 ### Hierarchical and semantic relations
 
-Ontologies allow to define hierarchical & semantic relations between classes. Structured as  a taxonomy, it defines a hierarchy where each class is a specialisation from its parent class. Moreover, it allows to define semantic relations, which give a meaning to pieces of information or data. 
+Ontologies allow to define hierarchical & semantic relations between classes. Structured as a taxonomy, an ontology defines a hierarchy where each class is a specialisation from its parent class. Moreover, it allows to define semantic relations, which give a meaning to pieces of information or data. 
 
-EDAM defines 4 main semantic relations between concepts from different sub-ontologies: *has_topic*, *has_input*, *has_output*, *is_format_of*. By definition, hierarchical relations between a class and its parent classes are semantically equivalent to *is_a*.
+EDAM defines 4 main semantic relations between concepts from different sub-ontologies: *has_topic*, *has_input*, *has_output*, *is_format_of*. By definition, a hierarchical relation between a class and its parent classe is semantically equivalent to *is_a*.
 
 <div style="text-align: center">
 <img src="{{ '/assets/images/EDAM_relations.png' | relative_url }}" alt="Semantic relations between EDAM sub-ontologies" style="width: 500px; height: auto;">
@@ -34,7 +34,7 @@ EDAM defines 4 main semantic relations between concepts from different sub-ontol
 
 ### Properties
 
-Each class defined in an ontology can be assigned properties, also called attributes. In EDAM, the minimum required properties for a concept are a label, a concise definition and a unique, persistent ID. The latter ensures that any concept can be used across resources and guarantee their long-term interoperability. 
+Each class defined in an ontology can be assigned properties, also called attributes. In EDAM, the minimum required properties for a concept are a label, a concise definition and a unique, persistent ID. The latter ensures that any concept can be used across resources and guarantee its long-term interoperability. 
 
 <div style="text-align: center">
 <img src="{{ '/assets/images/EDAM_IDs.png' | relative_url }}" alt="Example of concepts, their relations and PIDs" style="width: 500px; height: auto;">
