@@ -2,7 +2,7 @@ title: "The EDAM ontology"
 description: "Portfolio of projects involving the EDAM ontology."
 url: "https://rioualen.github.io"
 baseurl: "/edam-portfolio-mm"  # must match repo name
-logo: "/assets/images/EDAM_square.png"
+logo: "/assets/images/logos/EDAM_square.png"
 
 remote_theme: "mmistakes/minimal-mistakes"
 
