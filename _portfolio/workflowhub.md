@@ -9,7 +9,7 @@ sidebar:
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-  <img src="{{ '/assets/images/workflowhub.png' | relative_url }}" alt="WorkflowHub logo" style="width: 300px; height: auto;">
+  <img src="{{ '/assets/images/logos/workflowhub.png' | relative_url }}" alt="WorkflowHub logo" style="width: 300px; height: auto;">
   <h2 style="margin: 0;"></h2>
 </div>
 

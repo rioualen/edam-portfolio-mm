@@ -8,7 +8,7 @@ sidebar:
   nav: "portfolio_sidebar"
 feature_row:
 
-  - image_path: /assets/images/y.png
+  - image_path: /assets/images/logos/y.png
     alt: "Y"
     title: "Y"
     excerpt: "Stuff about Y and EDAM relation."
@@ -19,7 +19,7 @@ feature_row:
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-  <img src="{{ '/assets/images/x.png' | relative_url }}" alt="X logo" style="width: 300px; height: auto;">
+  <img src="{{ '/assets/images/logos/x.png' | relative_url }}" alt="X logo" style="width: 300px; height: auto;">
   <h2 style="margin: 0;"></h2>
 </div>
 

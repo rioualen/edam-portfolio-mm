@@ -8,17 +8,17 @@ sidebar:
   nav: "portfolio_sidebar"
 gallery:
 
-  - image_path: /assets/images/workflowhub.png
+  - image_path: /assets/images/logos/workflowhub.png
     alt: "WorkflowHub"
     url: "/portfolio/workflowhub/"
 
-  - image_path: /assets/images/bioschemas.png
+  - image_path: /assets/images/logos/bioschemas.png
     alt: "Bioschemas"
     url: "/portfolio/bioschemas/"
 ---
 
 <div style="display: flex; align-items: center; gap: 1em; margin-bottom: 1em;">
-  <img src="{{ '/assets/images/biotools.png' | relative_url }}" alt="bio.tools logo" style="width: 300px; height: auto;">
+  <img src="{{ '/assets/images/logos/biotools.png' | relative_url }}" alt="bio.tools logo" style="width: 300px; height: auto;">
   <h2 style="margin: 0;"></h2>
 </div>
 

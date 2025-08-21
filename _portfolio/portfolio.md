@@ -7,7 +7,7 @@ sidebar:
   nav: "portfolio_sidebar"
 feature_row:
 
-  - image_path: /assets/images/bioconductor.png
+  - image_path: /assets/images/logos/bioconductor.png
     alt: "Bioconductor"
     title: "Bioconductor"
     excerpt: "Annotation of Bioconductor packages using EDAM."
@@ -15,7 +15,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/bioschemas.png
+  - image_path: /assets/images/logos/bioschemas.png
     alt: "Bioschemas"
     title: "Bioschemas"
     excerpt: "Metadata schemas for life science resources."
@@ -23,7 +23,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/biotools.png
+  - image_path: /assets/images/logos/biotools.png
     alt: "ELIXIR bio.tools"
     title: "bio.tools"
     excerpt: "A registry of tools annotated with EDAM."
@@ -31,7 +31,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/cwl.png
+  - image_path: /assets/images/logos/cwl.png
     alt: "Common Workflow Language"
     title: "CWL"
     excerpt: "Stuff about CWL and EDAM relation."
@@ -39,7 +39,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/openebench.png
+  - image_path: /assets/images/logos/openebench.png
     alt: "OpenEBench"
     title: "OpenEBench"
     excerpt: "Stuff about OpenEBench and EDAM relation."
@@ -47,7 +47,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /assets/images/workflowhub.png
+  - image_path: /assets/images/logos/workflowhub.png
     alt: "WorkflowHub"
     title: "WorkflowHub"
     excerpt: "Stuff about WorkflowHub and EDAM relation."
