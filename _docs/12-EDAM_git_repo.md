@@ -1,3 +1,4 @@
+---
 title: "EDAM GitHub repository"
 nav_order: 1
 permalink: /docs/12-EDAM_git_repo/
