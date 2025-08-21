@@ -47,8 +47,10 @@ documentation_sidebar:
       - title: "Editing EDAM with git"
         url: "/docs/13-git_add_concept/"
   - title: "Advanced level"
+    children:
       - title: "To do"
         url: "/docs/21-to_do/"
   - title: "Use cases"
+    children:
       - title: "Annotating tools in bio.tools"
         url: "/docs/31-biotools/"
