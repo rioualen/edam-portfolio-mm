@@ -20,11 +20,11 @@ How to create and annotate new entry
 Example of a bio.tools entry annotated with EDAM
 
 <div style="text-align: center">
-<img src="{{ '/assets/images/EDAM_biotools_1.png' | relative_url }}" alt="Example of a tool annotated with EDAM concepts in bio.tools" style="width: 600px; height: auto;">
+<img src="{{ '/assets/images/docs/EDAM_biotools_1.png' | relative_url }}" alt="Example of a tool annotated with EDAM concepts in bio.tools" style="width: 600px; height: auto;">
 </div>
 
 <div style="text-align: center">
-<img src="{{ '/assets/images/EDAM_biotools_2.png' | relative_url }}" alt="How to annotate a tool with EDAM concepts in bio.tools" style="width: 600px; height: auto;">
+<img src="{{ '/assets/images/docs/EDAM_biotools_2.png' | relative_url }}" alt="How to annotate a tool with EDAM concepts in bio.tools" style="width: 600px; height: auto;">
 </div>
 
 

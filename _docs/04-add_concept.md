@@ -28,5 +28,5 @@ Go to parent class and click one of the buttons
 
 
 <div style="text-align: center">
-<img src="{{ '/assets/images/EDAM_browser_3.png' | relative_url }}" alt="Send issue via the EDAM browser" style="width: 600px; height: auto;">
+<img src="{{ '/assets/images/docs/EDAM_browser_3.png' | relative_url }}" alt="Send issue via the EDAM browser" style="width: 600px; height: auto;">
 </div>

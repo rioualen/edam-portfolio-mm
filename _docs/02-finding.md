@@ -18,13 +18,13 @@ The [EDAM browser](https://edamontology.github.io/edam-browser/) was developed i
 Make sure to select the latest version of EDAM:
 
 <div style="text-align: center">
-<img src="{{ '/assets/images/EDAM_browser_1.png' | relative_url }}" alt="Overview of the EDAM browser" style="width: 600px; height: auto;">
+<img src="{{ '/assets/images/docs/EDAM_browser_1.png' | relative_url }}" alt="Overview of the EDAM browser" style="width: 600px; height: auto;">
 </div>
 
 Click on the tree nodes to display their children and basic class information on the right. This information includes the concept’s URI, as well as links to their associated entries in BioPortal and the Ontology Lookup Service (OLS). Those entries provide the full list of properties for the selected concepts.  
 
 <div style="text-align: center">
-<img src="{{ '/assets/images/EDAM_browser_2.png' | relative_url }}" alt="Detail of a concept in the EDAM browser" style="width: 600px; height: auto;">
+<img src="{{ '/assets/images/docs/EDAM_browser_2.png' | relative_url }}" alt="Detail of a concept in the EDAM browser" style="width: 600px; height: auto;">
 </div>
 
 ### Missing concept
