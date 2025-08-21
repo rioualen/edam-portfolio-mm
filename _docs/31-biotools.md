@@ -1,11 +1,13 @@
 ---
 title: "Annotate with EDAM"
 nav_order: 1
-permalink: /docs/03-annotate/
+permalink: /docs/31-biotools/
 classes: wide
 sidebar:
   nav: "documentation_sidebar"
 ---
+
+## Annotating tools with EDAM
 
 ### bio.tools
 
@@ -13,12 +15,17 @@ bio.tools is a community-driven registry of bioinformatics software and data res
 
 bio.tools holds a collection of more than 30,000 tools, curated and annotated using EDAM concepts. It also provides enhanced search capacities and navigation, as well as an API for easy programmatic access to the database. 
 
-Example of a bio.tools entry annotated with EDAM:
+How to create and annotate new entry
+
+Example of a bio.tools entry annotated with EDAM
 
 <div style="text-align: center">
-<img src="{{ '/assets/images/EDAM_biotools.png' | relative_url }}" alt="Example of a tool annotated with EDAM concepts in bio.tools" style="width: 600px; height: auto;">
+<img src="{{ '/assets/images/EDAM_biotools_1.png' | relative_url }}" alt="Example of a tool annotated with EDAM concepts in bio.tools" style="width: 600px; height: auto;">
 </div>
 
-(link to bio.tools gallery page)
+<div style="text-align: center">
+<img src="{{ '/assets/images/EDAM_biotools_2.png' | relative_url }}" alt="How to annotate a tool with EDAM concepts in bio.tools" style="width: 600px; height: auto;">
+</div>
 
-(how to add a new tool in bio.tools and annotate it with EDAM)
+
+(link to bio.tools gallery page)

@@ -6,28 +6,35 @@ sidebar:
   nav: "documentation_sidebar"
 ---
 
-Ontology = controlled vocabulary formalising concepts structured as a taxonomy of classes, where each subclass (or ‘child’) is a specialisation from its parent class, thus  defining hierarchical relations
+## What is EDAM?
 
-EDAM focuses on concepts related to (life) science data analysis & management, and is structured as 4 main sub-ontologies: Topic, Operation, Data, Format
+### Structured vocabulary
 
-* **Topic:** a domain or field of interest, of study, application, work, data, technology…
-* **Operation:** a function that processes a set of inputs and results in a set of outputs
-* **Data:** information that can be passed as input and/or produced as output by computational
-* **Format:** a defined way or layout of representing and structuring data in a computer file
+An ontology is essentially a structured vocabulary formalising so-called “concepts” or “classes”. The EDAM ontology focuses on concepts related to life science data analysis & management, and is divided in 4 main sub-ontologies: Topic, Operation, Data, Format.
+
+* **Topics** refer to fields of interest or technologies, from general domains to narrower concepts;
+* **Operations** describe functions that process input data and produce output data;
+* **Data** concepts are types of information that can be passed as inputs and/or produced as outputs by computational programs;
+* **Formats** represent computational file specifications, often associated with specific data types.
+
 
 <div style="text-align: center">
 <img src="{{ '/assets/images/EDAM_hierarchy.png' | relative_url }}" alt="Simple EDAM overal hierarchy" style="width: 600px; height: auto;">
 </div>
 
-Ontologies also allow to define semantic relations between classes
+### Hierarchical and semantic relations
 
-Concepts in EDAM allow to define 4 main types of semantic relations
+Ontologies allow to define hierarchical & semantic relations between classes. Structured as  a taxonomy, it defines a hierarchy where each class is a specialisation from its parent class. Moreover, it allows to define semantic relations, which give a meaning to pieces of information or data. 
+
+EDAM defines 4 main semantic relations between concepts from different sub-ontologies: *has_topic*, *has_input*, *has_output*, *is_format_of*. By definition, hierarchical relations between a class and its parent classes are semantically equivalent to *is_a*.
 
 <div style="text-align: center">
 <img src="{{ '/assets/images/EDAM_relations.png' | relative_url }}" alt="Semantic relations between EDAM sub-ontologies" style="width: 500px; height: auto;">
 </div>
 
-Each class or concept has a set of properties, or attributes, including unique & persistent IDs
+### Properties
+
+Each class defined in an ontology can be assigned properties, also called attributes. In EDAM, the minimum required properties for a concept are a label, a concise definition and a unique, persistent ID. The latter ensures that any concept can be used across resources and guarantee their long-term interoperability. 
 
 <div style="text-align: center">
 <img src="{{ '/assets/images/EDAM_IDs.png' | relative_url }}" alt="Example of concepts, their relations and PIDs" style="width: 500px; height: auto;">
