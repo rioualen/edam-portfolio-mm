@@ -13,7 +13,7 @@ When documenting resources, one can use controlled terminologies defined by one 
 
 ### The EDAM browser
 
-The [EDAM browser](https://edamontology.github.io/edam-browser/) was developed in order to navigate the ontology in an intuitive way, display essential information on each concept , and provide links to some of the associated resources. 
+The [EDAM browser](https://edamontology.github.io/edam-browser/) was developed in order to navigate the ontology in an intuitive way, display essential information on each concept, and provide links to some of the associated resources. 
 
 Make sure to select the latest version of EDAM:
 

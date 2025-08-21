@@ -11,7 +11,7 @@ sidebar:
 
 When concepts are needed for a given application, the first step is to identify and list them. This can take the form of a spreadsheet, where each row is associated with a concept, and each column is an attribute.
 
-Following the previous section (“Navigate EDAM/Finding a concept), concepts that are already found available in EDAM can be associated with their “permanent ID” attribute.
+Following the previous section (“Navigate EDAM/Finding a concept""), concepts that are already found available in EDAM can be associated with their “permanent ID” attribute.
 
 Concepts that are not available can be defined with at least the following attributes:
 

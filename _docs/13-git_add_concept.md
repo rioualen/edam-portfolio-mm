@@ -18,9 +18,9 @@ sidebar:
 > git switch main
 > git fetch upstream
 
-2.Create and switch to new branch + double check you are in new branch
+2. Create and switch to new branch + double check you are in new branch
 
-> git checkout -b <name_branch>
+> git checkout -b [name_branch]
 
 > git branch
 
@@ -35,14 +35,14 @@ sidebar:
 
 > git commit EDAM_dev.owl
 “
-Add new concept <label> in <class> 
+Add new concept [label] in [class] 
 “
 
 > git log
 
 5. Push changes from new branch to EDAM main repository
 
-> git push --set-upstream origin <name_branch> 
+> git push --set-upstream origin [name_branch] 
 
 6. Check fork on github (switch from “main” to new branch in drop down menu) (screencap)
 
@@ -62,4 +62,4 @@ Make sure there are no commits behind
 
 > git switch main
 
-> git branch -d <name_branch> 
+> git branch -d [name_branch] 
