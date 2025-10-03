@@ -7,7 +7,10 @@ sidebar:
   nav: "documentation_sidebar"
 ---
 
-## Creating or updating a concept
+It is strongly recommended for this work to be done collaboratively, in order to include diverse points of view and reach consensus before implementing changes in the ontology itself.
+
+
+## Creating a new concept
 
 When concepts are needed for a given application, the first step is to identify and list them. This can take the form of a spreadsheet, where each row is associated with a concept, and each column is an attribute.
 
@@ -25,6 +28,10 @@ Optional attributes may be included, such as:
 * A link to a corresponding Wikipedia entry;
 * One or several synonyms (exact synonyms or narrow synonyms).
 
+> To do ajouter tips, par ex. sur le choix de parent class -> si pas sûr / pas trouvé, choisir une classe existante plus large que souhaitée (modifiable plus tard). 
+
+## Editing an existing concept
+
 In order to suggest the edition of an existing concept, the information to be changed or added can be included in the table by using the same format.
 
-It is strongly recommended for this work to be done collaboratively, in order to include diverse points of view and reach consensus before implementing changes in the ontology itself.
+

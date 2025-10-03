@@ -17,6 +17,7 @@ This procedure doesn’t involve coding or manipulating technical files. It can 
 
 ### With Github
 
+Create a github issue -> template 
 (to do)
 (add screen caps)
 
@@ -25,6 +26,8 @@ This procedure doesn’t involve coding or manipulating technical files. It can 
 Allows to suggest the addition or edition of concepts via the submission of a Github issue 
 
 Go to parent class and click one of the buttons
+
+> Note to add: click on concept node, then either click "+" to add child concept, or "edit" to modify the concept itself
 
 
 <div style="text-align: center">
