@@ -38,6 +38,8 @@ documentation_sidebar:
         url: "/docs/03-new_concept/"
       - title: "Request concept addition"
         url: "/docs/04-add_concept/"
+      - title: "Work with WebProtégé"
+        url: "/docs/05-webprotege/"
   - title: "Intermediate level"
     children:
       - title: "Standards and file formats"
